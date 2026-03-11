@@ -12,21 +12,21 @@ This repository contains lab materials for **DATASCI 100: Introduction to Statis
 
 ```
 DATASCI-100-Lab/
-├── Lab-01/          # Introduction to R and the tidyverse
-├── Lab-02/          # Exploratory data analysis
-├── Lab-03/          # Probability fundamentals
-├── Lab-04/          # Sampling distributions
-├── Lab-05/          # Confidence intervals
-├── Lab-06/          # Hypothesis testing (proportions)
-├── Lab-07/          # Chi-square tests
-├── Lab-08/          # Inference for means (one-sample t-test)
-├── Lab-09/          # Paired and two-sample t-tests
-├── Lab-10/          # ANOVA
-├── Lab-Exam/        # Lab exam using the gapminder dataset
-└── data/            # Datasets used across labs
+├── Lab-00/          # Introduction to DATASCI 100 Lab
+├── Lab-01/          # Introduction to data
+├── Lab-02/          # Summarizing and visualizing data
+├── Lab-03/          # Data cleaning and manipulation
+├── Lab-04/          # Binomial and normal distributions
+├── Lab-05/          # Sampling distributions
+├── Lab-06/          # Statistical inference (CI & HT)
+├── Lab-07/          # Inference for categorical data
+├── Lab-08/          # Inference for a single mean
+├── Lab-09/          # Errors in inference & inference for paired data
+├── Lab-10/          # Inference for difference of two means / ANOVA
+├── Lab-11/          # Linear regression
 ```
 
-> **Note:** Each lab folder contains an `.Rmd` source file, a compiled `.pdf` or `.html` output, and any supplementary datasets.
+> **Note:** Each lab folder contains an `.R` source file, a compiled `.pdf`, and any supplementary datasets.
 
 ---
 
@@ -34,14 +34,18 @@ DATASCI-100-Lab/
 
 | Lab | Topic |
 |-----|-------|
-| 1–2 | R fundamentals, `ggplot2`, `dplyr`, EDA |
-| 3–4 | Probability, sampling distributions, Central Limit Theorem |
-| 5–6 | Confidence intervals, hypothesis tests for proportions |
-| 7   | Chi-square goodness-of-fit and tests of independence |
-| 8   | One-sample and one-proportion *t*-tests |
-| 9   | Paired *t*-tests and independent two-sample *t*-tests |
-| 10  | One-way ANOVA and post-hoc testing |
-| Exam | Integrative analysis using the `gapminder` dataset |
+| 0   | Introduction to DATASCI 100 Lab |
+| 1   | Introduction to data |
+| 2   | Summarizing and visualizing data |
+| 3   | Data cleaning and manipulation |
+| 4   | Binomial and normal distributions |
+| 5   | Sampling distributions |
+| 6   | Statistical inference — confidence intervals & hypothesis testing |
+| 7   | Inference for categorical data |
+| 8   | Inference for a single mean |
+| 9   | Errors in inference & inference for paired data |
+| 10  | Inference for difference of two means / ANOVA |
+| 11  | Linear regression |
 
 ---
 
@@ -58,13 +62,13 @@ install.packages("tidyverse")
 
 ## 🚀 Getting Started
 
-Clone the repository and open any `.Rmd` file in RStudio:
+Clone the repository and open any `.R` file in RStudio:
 
 ```bash
 git clone https://github.com/JustinEloriaga/DATASCI-100-Lab.git
 ```
 
-Labs are self-contained — each `.Rmd` includes instructions, code scaffolding, and discussion questions. Students fill in the blanks and knit to produce their submission.
+Labs are self-contained — each `.R` includes instructions, code scaffolding, and discussion questions. 
 
 ---
 
