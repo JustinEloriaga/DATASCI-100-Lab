@@ -1,0 +1,1001 @@
+Sex,Age,MarStat,Income,HoursWk,Race,USCitizen,HealthInsurance,Language
+female,31,not married,60,40,white,citizen,yes,other
+male,31,not married,0.36,12,black,citizen,yes,native English
+male,75,not married,0,,white,citizen,yes,native English
+female,80,not married,0,,white,citizen,yes,native English
+male,64,married,0,,white,citizen,yes,native English
+male,14,not married,,,white,citizen,yes,native English
+male,78,married,0,,white,citizen,yes,native English
+male,35,not married,87,40,white,citizen,yes,other
+female,70,married,0,1,white,citizen,yes,native English
+female,18,not married,0,,white,citizen,yes,native English
+male,48,married,32,48,white,citizen,no,native English
+female,61,married,0,20,white,citizen,no,native English
+female,52,not married,48,40,white,citizen,yes,native English
+female,36,married,2,40,white,citizen,yes,native English
+female,20,not married,0.5,2,white,citizen,yes,native English
+male,67,not married,0,,white,citizen,yes,native English
+male,8,not married,,,white,citizen,yes,native English
+male,60,married,0,,white,citizen,yes,native English
+male,75,married,21.6,6,white,citizen,yes,native English
+female,25,married,0,,other,citizen,yes,native English
+female,48,married,22,20,white,citizen,yes,native English
+male,9,not married,,,white,citizen,yes,native English
+female,62,married,6.8,18,white,citizen,yes,native English
+female,49,not married,0,,other,citizen,no,native English
+male,32,not married,30,60,white,citizen,yes,native English
+female,21,not married,2.5,20,white,citizen,yes,native English
+male,21,not married,1.5,20,white,citizen,yes,native English
+female,39,married,0,30,white,citizen,yes,other
+female,42,married,3,40,white,citizen,no,other
+female,48,married,75,40,white,citizen,yes,native English
+male,34,not married,0,70,white,citizen,no,native English
+female,61,not married,19,38,white,citizen,yes,native English
+female,32,not married,50,50,white,citizen,yes,other
+male,51,married,130,50,white,citizen,yes,native English
+male,80,not married,0,,white,citizen,yes,native English
+male,15,not married,0,,white,citizen,Yes,native English
+female,9,not married,,,black,citizen,yes,native English
+male,12,not married,,,white,citizen,yes,other
+male,43,married,0,10,asian,citizen,yes,native English
+female,53,married,0,,white,citizen,yes,native English
+male,64,married,0,,white,citizen,yes,native English
+male,37,married,47,40,white,citizen,no,other
+male,3,not married,,,white,citizen,yes,native English
+male,33,not married,1.5,15,white,citizen,no,native English
+female,70,married,11.4,17,white,citizen,yes,native English
+male,27,not married,15,30,white,citizen,no,native English
+male,66,married,13,20,white,citizen,yes,native English
+female,48,not married,31,40,black,citizen,yes,native English
+female,2,not married,,,white,citizen,yes,native English
+female,17,not married,0,,black,citizen,yes,other
+male,56,married,140,50,white,citizen,yes,native English
+male,35,not married,0,,white,citizen,Yes,native English
+male,10,not married,,,white,citizen,yes,other
+male,24,not married,0,,white,citizen,no,other
+male,36,married,1,40,other,citizen,yes,other
+male,73,married,0,,white,citizen,yes,native English
+female,54,married,0,,white,citizen,yes,native English
+male,65,married,0,,white,citizen,yes,native English
+female,23,not married,10.5,40,white,citizen,yes,native English
+female,68,not married,17.1,40,white,citizen,yes,native English
+male,19,not married,0,,other,citizen,Yes,native English
+male,19,not married,0,,white,citizen,yes,native English
+female,26,married,45,40,white,citizen,yes,native English
+female,30,not married,1.1,40,black,citizen,no,native English
+female,29,not married,17,40,white,citizen,yes,native English
+male,37,married,15.1,30,white,noncitizen,yes,native English
+female,66,married,0,,black,citizen,yes,native English
+female,49,not married,47.9,40,white,citizen,yes,native English
+male,55,married,0,40,white,citizen,yes,native English
+male,5,not married,,,other,citizen,no,other
+male,43,not married,50,40,white,citizen,yes,native English
+male,21,not married,1.5,30,asian,citizen,no,other
+female,1,not married,,,white,citizen,no,native English
+male,57,married,0.8,24,white,citizen,yes,native English
+male,35,not married,13,20,white,citizen,yes,other
+female,56,not married,23,60,white,citizen,yes,native English
+female,34,not married,30.2,44,white,citizen,Yes,native English
+female,16,married,0,,white,citizen,yes,native English
+female,18,not married,1,12,white,citizen,yes,native English
+female,16,not married,0,,white,citizen,no,other
+female,47,not married,10,32,white,citizen,yes,native English
+male,8,not married,,,white,citizen,yes,native English
+male,30,not married,60,50,white,citizen,yes,native English
+male,53,married,75,45,white,citizen,no,native English
+female,55,married,3.8,16,white,citizen,yes,native English
+male,48,married,47,40,other,citizen,yes,other
+male,50,not married,52,27,white,citizen,no,native English
+male,54,married,57,40,white,citizen,yes,native English
+male,16,not married,0,,white,citizen,yes,native English
+male,52,not married,28.9,43,white,citizen,yes,native English
+female,48,married,15,35,black,citizen,yes,native English
+male,58,married,72,40,asian,noncitizen,yes,other
+female,43,married,6,40,black,citizen,no,native English
+male,6,not married,,,black,citizen,yes,native English
+female,10,not married,,,other,citizen,yes,other
+female,15,not married,0,,white,citizen,yes,native English
+male,28,not married,14,25,white,citizen,yes,native English
+female,11,not married,,,white,citizen,yes,native English
+female,44,married,0,,other,citizen,yes,native English
+female,25,not married,38,48,black,citizen,yes,other
+male,25,not married,0.56,7,white,citizen,no,native English
+female,45,not married,4.9,35,white,citizen,yes,native English
+female,62,married,15,20,white,citizen,yes,native English
+female,46,married,4.1,30,white,citizen,yes,other
+female,41,married,50,50,asian,citizen,yes,other
+female,27,married,52,45,white,citizen,yes,native English
+female,6,not married,,,black,citizen,yes,native English
+male,61,married,85,40,white,citizen,yes,native English
+female,59,married,29.7,40,white,citizen,yes,native English
+male,74,married,0,,white,citizen,yes,native English
+male,44,married,65,48,white,citizen,yes,native English
+female,45,not married,0,,white,citizen,no,native English
+female,4,not married,,,white,citizen,yes,native English
+male,70,not married,0,,white,citizen,yes,native English
+female,50,married,16,30,white,citizen,yes,native English
+female,19,not married,0,,white,citizen,no,native English
+female,74,married,0,,white,citizen,yes,native English
+female,71,married,0,,white,citizen,yes,native English
+female,47,married,5.5,25,white,citizen,yes,native English
+male,49,married,36,40,asian,citizen,yes,other
+male,25,not married,7.8,35,white,citizen,yes,native English
+male,57,married,0,,asian,citizen,yes,other
+male,65,married,0,,white,citizen,yes,native English
+male,79,married,0,,white,citizen,yes,native English
+male,66,not married,0,,white,citizen,yes,native English
+female,22,not married,17.5,35,white,citizen,yes,native English
+female,76,not married,0,,asian,citizen,yes,other
+female,10,not married,,,white,noncitizen,no,other
+male,41,married,563,62,white,citizen,yes,other
+female,46,married,0,,white,noncitizen,yes,other
+male,0,not married,,,white,citizen,yes,native English
+female,41,not married,0,,asian,noncitizen,yes,native English
+female,3,not married,,,white,citizen,yes,native English
+female,42,married,14,20,white,citizen,yes,native English
+male,42,married,25,50,white,noncitizen,no,other
+male,61,married,0,,white,citizen,yes,native English
+male,63,married,0,,white,citizen,yes,other
+female,20,not married,2,25,white,citizen,yes,native English
+female,60,not married,47,35,asian,citizen,yes,other
+female,69,not married,0,,white,citizen,yes,other
+female,47,married,33,40,white,citizen,yes,native English
+female,13,not married,,,asian,noncitizen,yes,other
+female,9,not married,,,white,citizen,yes,other
+female,49,married,94,36,white,citizen,yes,native English
+male,37,married,97,65,white,citizen,yes,other
+male,62,married,0,,white,citizen,yes,native English
+female,80,married,0,,white,citizen,yes,other
+male,27,married,60,40,white,citizen,yes,native English
+female,32,married,70,36,white,citizen,yes,native English
+male,41,married,90,40,asian,noncitizen,yes,other
+male,41,married,60,40,white,citizen,yes,native English
+male,46,not married,60,48,white,citizen,yes,native English
+female,36,married,20,20,white,citizen,yes,other
+male,42,married,80,60,asian,noncitizen,yes,other
+female,15,not married,0,,white,citizen,yes,native English
+female,15,not married,0,,other,citizen,yes,other
+female,130,not married,0,,white,citizen,yes,native English
+male,93,not married,0,,white,citizen,yes,native English
+female,9,not married,,,white,citizen,yes,native English
+female,82,not married,0,,white,citizen,yes,native English
+female,49,married,16,30,asian,citizen,yes,other
+female,17,not married,0,,white,citizen,yes,other
+male,29,married,0,40,white,noncitizen,no,other
+male,64,married,33.3,40,white,citizen,yes,native English
+female,45,married,382,55,white,citizen,yes,native English
+male,64,not married,0,,white,citizen,yes,native English
+male,51,not married,90,50,white,citizen,yes,native English
+female,0,not married,,,white,citizen,yes,native English
+male,53,married,40,32,white,citizen,yes,native English
+female,50,married,45,40,white,citizen,yes,native English
+male,9,not married,,,white,citizen,yes,native English
+male,74,married,0,,white,citizen,yes,native English
+female,41,not married,55,40,white,citizen,yes,native English
+female,52,married,70,40,white,citizen,yes,native English
+male,67,married,0,,white,citizen,yes,native English
+female,38,married,24,40,white,citizen,yes,native English
+female,6,not married,,,white,citizen,yes,native English
+female,1,not married,,,white,citizen,yes,native English
+female,50,not married,0,,white,citizen,yes,native English
+male,33,not married,40,24,asian,citizen,no,other
+male,8,not married,,,white,citizen,yes,native English
+male,11,not married,,,white,citizen,yes,other
+male,62,married,56,40,white,citizen,yes,native English
+male,36,married,85,38,white,citizen,yes,native English
+male,30,not married,9,20,black,citizen,no,native English
+female,60,married,0,,white,citizen,yes,native English
+male,63,married,82,32,asian,citizen,yes,other
+male,35,married,62,70,asian,citizen,yes,other
+male,22,not married,0.7,25,white,citizen,yes,native English
+male,16,not married,0,,white,citizen,yes,native English
+female,41,not married,59,68,black,citizen,yes,native English
+male,10,not married,,,white,citizen,yes,native English
+female,21,not married,8,40,white,citizen,yes,native English
+male,29,not married,2,20,asian,noncitizen,no,other
+male,17,not married,0,,white,citizen,yes,native English
+female,68,married,0,,white,citizen,yes,native English
+male,31,not married,22.1,45,white,citizen,yes,native English
+male,40,married,30,45,white,citizen,yes,native English
+female,45,not married,25,40,white,citizen,yes,native English
+male,5,not married,,,other,citizen,yes,other
+female,19,not married,2,25,white,citizen,yes,native English
+female,86,married,0,,white,citizen,yes,native English
+female,41,not married,31.2,40,white,citizen,yes,native English
+female,26,married,51,45,white,citizen,yes,native English
+female,32,married,0,,white,citizen,yes,native English
+female,33,not married,0,,white,citizen,yes,native English
+female,77,not married,0,,white,citizen,yes,native English
+female,9,not married,,,white,citizen,yes,native English
+male,30,married,16,20,other,noncitizen,no,other
+female,54,not married,0,,white,citizen,yes,native English
+female,23,not married,0,,white,citizen,no,native English
+female,37,married,28.9,40,white,citizen,yes,native English
+female,0,not married,,,white,citizen,yes,native English
+female,46,married,0.8,23,white,citizen,yes,native English
+female,3,not married,,,black,citizen,yes,native English
+male,8,not married,,,black,citizen,yes,native English
+female,28,not married,105,50,white,citizen,yes,native English
+female,56,married,27,40,white,citizen,yes,native English
+female,47,married,10,8,white,citizen,no,other
+female,29,married,0,,white,citizen,yes,native English
+male,21,not married,0,,asian,citizen,no,other
+female,56,married,0,,white,citizen,yes,native English
+female,34,married,36,40,white,citizen,yes,native English
+male,14,not married,,,white,citizen,yes,native English
+female,83,not married,0,,white,citizen,yes,native English
+female,16,not married,0,,black,citizen,yes,native English
+male,32,married,40,40,white,citizen,yes,native English
+female,64,married,83,40,white,citizen,yes,native English
+male,79,married,3.6,60,white,citizen,yes,native English
+female,6,not married,,,other,citizen,yes,native English
+female,36,married,20,40,white,noncitizen,yes,other
+male,10,not married,,,white,citizen,yes,native English
+female,61,married,0,,white,citizen,yes,other
+male,52,not married,72,36,white,citizen,yes,native English
+female,59,not married,0,17,white,citizen,yes,native English
+male,78,not married,0,,white,citizen,yes,native English
+female,34,married,0.4,40,white,citizen,yes,native English
+female,56,married,0,10,asian,noncitizen,no,other
+female,43,married,0,,white,citizen,no,native English
+male,52,not married,0,,other,citizen,yes,native English
+female,62,not married,5.9,25,other,citizen,no,native English
+male,51,married,2,30,asian,citizen,yes,native English
+male,4,not married,,,white,citizen,yes,native English
+male,51,married,80,40,white,citizen,yes,native English
+male,69,married,0,40,white,noncitizen,yes,other
+male,58,married,22.4,40,asian,citizen,yes,other
+female,3,not married,,,black,citizen,yes,native English
+female,47,married,9,22,white,citizen,yes,native English
+female,74,not married,0,,white,citizen,yes,native English
+male,63,married,0,,white,citizen,yes,native English
+male,6,not married,,,black,citizen,yes,native English
+female,75,not married,7.7,32,black,citizen,yes,native English
+female,16,not married,0,,white,citizen,yes,native English
+male,26,married,19,40,white,citizen,no,native English
+male,53,not married,8,46,white,citizen,no,native English
+male,31,married,0.5,48,white,citizen,yes,native English
+female,6,not married,,,white,citizen,yes,native English
+female,60,married,60,40,white,citizen,yes,native English
+male,82,married,0.9,7,white,citizen,yes,native English
+female,61,not married,0,,other,citizen,yes,native English
+male,66,married,37,42,white,noncitizen,yes,other
+female,81,married,0,,asian,citizen,yes,other
+female,47,married,0,,white,citizen,yes,native English
+male,49,not married,40,50,white,citizen,no,native English
+male,8,not married,,,white,citizen,yes,native English
+female,25,not married,41,45,asian,citizen,yes,other
+female,20,not married,14.4,40,white,citizen,no,native English
+male,78,married,0,,white,citizen,yes,other
+female,0,not married,,,white,citizen,yes,native English
+female,70,not married,0,,white,citizen,yes,native English
+male,29,not married,30,40,white,citizen,yes,other
+female,5,not married,,,black,citizen,yes,native English
+male,17,not married,0,,black,citizen,no,native English
+male,72,married,67,80,white,citizen,yes,native English
+male,52,married,115,40,black,citizen,yes,native English
+female,55,not married,55,40,white,citizen,yes,native English
+male,50,not married,0,,asian,citizen,no,other
+male,76,married,5,40,white,citizen,yes,native English
+female,65,married,0,,white,citizen,yes,native English
+male,61,married,20.2,55,white,citizen,yes,native English
+male,25,not married,7.7,40,white,citizen,yes,native English
+female,94,not married,0,,white,citizen,yes,native English
+female,49,married,0,,white,citizen,yes,native English
+female,67,married,15,30,white,citizen,yes,native English
+female,15,not married,0,,white,citizen,yes,native English
+male,47,married,0,,white,citizen,yes,native English
+male,54,married,0,,white,citizen,yes,native English
+male,64,married,15,30,white,citizen,yes,native English
+female,55,married,0,,black,citizen,yes,native English
+male,46,married,0,40,white,citizen,yes,native English
+male,59,married,0,,black,citizen,yes,native English
+female,43,married,0,,white,citizen,yes,native English
+male,44,not married,0,20,asian,citizen,no,native English
+male,21,not married,0,,white,citizen,no,native English
+female,9,not married,,,white,citizen,yes,native English
+male,73,married,8,20,white,citizen,yes,native English
+male,24,not married,52,44,white,citizen,yes,native English
+male,8,not married,,,white,citizen,no,other
+female,19,married,0,,white,noncitizen,yes,other
+male,11,not married,,,white,citizen,yes,native English
+male,32,married,60,50,white,citizen,yes,native English
+female,39,not married,57,40,black,citizen,yes,native English
+male,25,not married,15,32,white,citizen,no,native English
+female,62,married,0,,white,citizen,yes,native English
+female,19,not married,1.5,25,white,citizen,yes,native English
+female,18,not married,0,,white,citizen,no,native English
+female,44,married,21,24,white,citizen,yes,native English
+male,31,not married,92,60,black,citizen,yes,native English
+male,50,not married,0,6,white,citizen,yes,native English
+female,6,not married,,,white,citizen,yes,native English
+male,32,not married,65,70,white,citizen,yes,native English
+male,8,not married,,,other,citizen,yes,other
+male,12,not married,,,white,noncitizen,yes,other
+male,47,married,36,40,white,citizen,yes,native English
+female,63,not married,0,,white,citizen,yes,native English
+female,42,not married,60,40,black,citizen,yes,native English
+male,4,not married,,,white,citizen,yes,native English
+male,58,married,42,40,white,citizen,yes,other
+male,61,married,108,45,white,citizen,yes,native English
+female,81,not married,0,,white,citizen,yes,native English
+female,38,married,41,40,white,citizen,yes,native English
+male,25,married,5,70,white,citizen,yes,native English
+male,20,not married,0,,other,citizen,no,other
+male,60,married,37,40,white,citizen,yes,native English
+female,10,not married,,,white,citizen,no,other
+male,85,married,0,,white,citizen,yes,native English
+male,6,not married,,,black,citizen,yes,native English
+male,69,not married,0,,white,citizen,yes,other
+female,10,not married,,,white,citizen,yes,native English
+female,77,not married,0,,white,citizen,yes,native English
+female,46,married,0,,white,citizen,yes,native English
+female,78,married,0,,white,citizen,yes,native English
+male,69,married,0,,asian,noncitizen,yes,other
+female,34,married,0,,other,citizen,yes,native English
+male,4,not married,,,asian,citizen,yes,native English
+female,54,married,0,,white,citizen,yes,native English
+female,70,not married,0,,other,citizen,yes,native English
+male,11,not married,,,other,citizen,yes,other
+female,71,married,0,,white,citizen,yes,native English
+male,4,not married,,,black,citizen,yes,native English
+female,51,married,0,,white,citizen,yes,native English
+male,60,married,60,40,white,citizen,yes,native English
+female,16,not married,0.49,8,white,citizen,yes,native English
+male,59,married,21.6,30,white,citizen,yes,native English
+female,3,not married,,,white,citizen,yes,native English
+male,77,not married,0,,white,citizen,yes,native English
+female,3,not married,,,white,citizen,yes,native English
+male,45,not married,10,50,black,citizen,yes,native English
+male,53,not married,0,,white,citizen,yes,native English
+male,86,married,0,,white,citizen,yes,native English
+male,49,married,50,37,black,citizen,yes,native English
+male,13,not married,,,other,citizen,yes,other
+female,27,not married,2,40,asian,citizen,yes,other
+male,49,married,56,40,white,citizen,yes,native English
+male,56,married,80,40,asian,citizen,yes,other
+male,28,not married,28,37,asian,citizen,yes,other
+male,61,married,0,,white,citizen,yes,other
+male,54,married,46,40,asian,citizen,yes,other
+female,59,not married,16,40,white,citizen,no,native English
+female,62,not married,0,1,white,citizen,yes,native English
+female,19,not married,2.1,8,white,citizen,yes,native English
+female,22,not married,1.9,16,white,citizen,yes,native English
+female,35,not married,0,,black,citizen,yes,native English
+male,6,not married,,,other,noncitizen,yes,other
+male,16,not married,0,,white,citizen,yes,native English
+female,38,married,46,44,white,citizen,yes,native English
+female,41,married,24.7,24,black,citizen,yes,native English
+female,12,not married,,,white,citizen,yes,native English
+male,35,married,0,40,white,citizen,yes,native English
+male,32,not married,40,40,white,noncitizen,yes,other
+male,9,not married,,,white,citizen,yes,other
+female,24,married,0,,white,citizen,no,native English
+female,27,not married,14.4,30,white,citizen,yes,native English
+female,53,married,29,40,white,citizen,yes,native English
+female,38,not married,32,40,white,citizen,yes,native English
+male,36,not married,0,,black,citizen,no,native English
+female,74,not married,5,10,white,citizen,yes,native English
+male,40,married,52,40,white,citizen,yes,native English
+male,7,not married,,,black,citizen,yes,native English
+female,83,not married,0,,white,citizen,yes,native English
+female,24,not married,10,35,white,citizen,no,other
+female,50,not married,13.1,50,white,citizen,yes,native English
+female,76,married,0,,white,citizen,yes,native English
+male,63,married,19.3,15,white,citizen,yes,native English
+female,26,married,9,20,white,citizen,yes,native English
+female,20,not married,17,35,white,citizen,no,native English
+male,54,married,60,40,white,citizen,yes,native English
+female,66,not married,0,,black,citizen,yes,native English
+female,42,married,0,,white,citizen,yes,native English
+female,23,not married,1.8,40,white,citizen,yes,native English
+female,68,not married,0,,white,citizen,yes,native English
+female,33,not married,0,,white,citizen,yes,native English
+female,47,married,11,30,white,citizen,yes,native English
+male,13,not married,,,white,noncitizen,yes,other
+male,51,married,47,40,black,citizen,yes,native English
+male,73,married,0,,white,citizen,yes,native English
+male,23,not married,5.3,35,white,citizen,yes,native English
+female,4,not married,,,white,citizen,yes,native English
+male,0,not married,,,black,citizen,yes,native English
+female,78,married,0,,white,citizen,yes,native English
+male,18,not married,0.3,4,white,citizen,yes,other
+female,59,not married,18,40,other,citizen,yes,other
+female,62,married,0,,asian,citizen,yes,other
+female,6,not married,,,white,citizen,yes,native English
+female,56,married,0,,white,citizen,yes,native English
+female,7,not married,,,black,citizen,yes,native English
+female,4,not married,,,white,citizen,yes,native English
+female,51,not married,0,,white,citizen,yes,native English
+male,63,married,69,80,white,citizen,yes,native English
+female,15,not married,0,,white,citizen,yes,native English
+female,58,married,65,55,white,citizen,yes,native English
+male,0,not married,,,white,citizen,yes,native English
+female,53,married,110,55,white,citizen,yes,native English
+male,25,not married,27,40,black,citizen,no,native English
+female,72,not married,0,,white,citizen,yes,native English
+female,47,not married,35.3,38,white,citizen,yes,native English
+male,72,married,0,,white,citizen,yes,native English
+female,90,not married,0,,white,citizen,yes,other
+male,20,not married,0.7,20,white,citizen,no,native English
+female,34,not married,0,,black,citizen,no,native English
+male,2,not married,,,white,citizen,yes,native English
+male,32,married,0,99,white,citizen,no,other
+male,11,not married,,,white,citizen,yes,native English
+female,5,not married,,,white,citizen,yes,native English
+male,40,not married,318,40,white,citizen,yes,native English
+male,13,not married,,,other,citizen,yes,native English
+female,25,not married,23,25,white,citizen,yes,native English
+female,10,not married,,,white,citizen,yes,native English
+male,10,not married,,,white,citizen,yes,native English
+male,28,not married,0,,black,citizen,no,native English
+female,50,not married,0,,black,citizen,yes,native English
+male,22,not married,0,,white,citizen,yes,native English
+male,72,married,0,,white,citizen,yes,native English
+female,31,married,22,30,white,citizen,yes,native English
+male,10,not married,,,black,citizen,yes,native English
+male,58,not married,0,,black,citizen,yes,native English
+male,39,married,48,40,white,citizen,yes,native English
+male,45,married,0.78,20,white,citizen,yes,native English
+male,56,not married,0,,white,citizen,no,native English
+male,67,married,0,,white,citizen,yes,other
+female,56,married,0,10,white,citizen,yes,native English
+male,69,not married,0,,white,citizen,yes,native English
+female,10,not married,,,asian,citizen,yes,native English
+female,38,married,7,17,white,citizen,no,other
+female,42,married,32,24,white,citizen,yes,native English
+female,7,not married,,,asian,citizen,yes,native English
+female,15,not married,0,,white,citizen,yes,native English
+female,80,not married,0,,white,citizen,yes,other
+male,62,married,19.2,8,white,citizen,yes,native English
+male,41,not married,0,40,white,noncitizen,no,other
+female,21,not married,3.8,25,white,citizen,yes,native English
+female,72,married,0,,white,citizen,yes,native English
+male,25,not married,40,40,other,citizen,yes,other
+female,28,not married,18,36,black,noncitizen,no,native English
+female,19,not married,0,,white,citizen,yes,native English
+female,75,not married,0,,black,citizen,yes,native English
+male,48,not married,24,40,other,citizen,no,other
+female,4,not married,,,white,citizen,yes,native English
+female,68,not married,0,,white,citizen,yes,native English
+male,50,married,41.7,40,white,citizen,yes,other
+female,59,married,0,,white,citizen,yes,native English
+male,54,married,35,43,white,citizen,yes,native English
+female,29,married,0,20,other,citizen,no,native English
+female,49,married,0,,white,citizen,yes,native English
+male,1,not married,,,white,citizen,yes,native English
+male,7,not married,,,asian,citizen,yes,native English
+female,62,married,0,,white,citizen,yes,native English
+female,59,not married,48.3,40,white,citizen,yes,native English
+female,16,not married,0,,white,citizen,yes,native English
+male,63,married,0,,asian,citizen,no,other
+female,43,not married,0,,white,citizen,yes,native English
+male,6,not married,,,white,citizen,yes,native English
+female,0,not married,,,other,noncitizen,no,native English
+female,28,married,36,40,white,citizen,yes,native English
+female,59,not married,0,,white,citizen,no,native English
+female,57,married,27,40,white,citizen,yes,native English
+female,75,not married,0,,white,citizen,yes,native English
+female,62,married,0,,white,citizen,yes,native English
+male,47,not married,10.3,27,white,citizen,yes,native English
+female,53,not married,5,40,white,citizen,no,native English
+female,54,not married,54,39,white,citizen,yes,native English
+male,61,married,22.5,40,white,citizen,yes,native English
+female,76,not married,0,,white,citizen,yes,native English
+female,59,married,16.5,40,white,citizen,yes,native English
+male,27,not married,45,40,white,citizen,yes,native English
+male,17,not married,0,,white,citizen,yes,native English
+male,82,married,0,,white,citizen,yes,native English
+female,67,not married,0,6,white,citizen,yes,native English
+male,37,not married,29,40,white,citizen,yes,native English
+female,71,married,0,,white,citizen,yes,native English
+male,14,not married,,,white,citizen,yes,native English
+male,63,married,67,46,white,citizen,yes,native English
+male,9,not married,,,white,citizen,yes,native English
+female,55,not married,32,40,white,citizen,yes,native English
+female,20,not married,0.5,20,white,citizen,yes,native English
+female,3,not married,,,other,citizen,yes,native English
+female,7,not married,,,white,citizen,no,native English
+female,16,not married,0,,white,citizen,no,native English
+female,16,not married,0.1,2,white,citizen,yes,other
+male,66,married,0,,white,citizen,yes,native English
+female,56,not married,0,,white,citizen,yes,other
+male,7,not married,,,NA,citizen,yes,other
+male,4,not married,,,black,citizen,yes,native English
+male,53,not married,2,16,white,citizen,yes,native English
+male,22,married,15,42,asian,citizen,yes,native English
+female,50,married,0,,other,noncitizen,yes,other
+female,13,not married,,,white,citizen,yes,other
+male,28,married,35,40,white,citizen,yes,native English
+male,1,not married,,,white,citizen,yes,native English
+female,36,married,0.54,30,black,citizen,yes,other
+female,4,not married,,,other,citizen,yes,native English
+male,24,not married,2,10,white,citizen,yes,native English
+female,2,not married,,,white,citizen,yes,native English
+male,37,married,0,,white,citizen,yes,native English
+male,29,married,0,,white,citizen,yes,native English
+male,18,not married,3.7,32,white,citizen,yes,native English
+female,80,not married,0,,white,citizen,yes,other
+female,15,not married,0,,white,citizen,yes,native English
+male,1,not married,,,white,citizen,no,native English
+male,51,married,78,40,white,citizen,yes,native English
+female,18,not married,0.7,15,white,citizen,yes,native English
+male,78,married,0,,white,citizen,yes,native English
+male,46,not married,25,55,white,citizen,yes,other
+male,39,married,80,40,white,citizen,yes,native English
+male,63,married,18.2,40,black,citizen,yes,native English
+female,46,married,40,56,other,citizen,yes,other
+male,45,married,45.7,40,asian,noncitizen,yes,other
+female,13,not married,,,black,citizen,yes,native English
+female,40,married,1.9,20,white,citizen,no,native English
+female,59,not married,8,24,white,citizen,yes,native English
+female,30,married,5,48,white,noncitizen,yes,other
+male,41,married,0,,white,citizen,yes,native English
+female,5,not married,,,white,citizen,yes,native English
+female,84,married,0,,white,citizen,yes,native English
+male,40,married,21.1,40,white,citizen,yes,native English
+male,29,not married,47,75,asian,citizen,yes,native English
+female,35,married,0,,white,noncitizen,yes,other
+male,3,not married,,,white,citizen,yes,native English
+female,11,not married,,,white,citizen,yes,native English
+female,43,not married,0,,black,citizen,yes,native English
+female,29,married,32,40,white,citizen,yes,native English
+female,35,married,0,,white,noncitizen,yes,other
+male,45,married,50,40,white,citizen,yes,native English
+male,24,not married,0,,black,citizen,no,native English
+male,45,not married,0,,white,citizen,yes,native English
+male,35,not married,16,60,white,citizen,no,native English
+female,18,not married,0,,black,citizen,yes,native English
+male,11,not married,,,white,citizen,yes,native English
+female,80,not married,0,,asian,citizen,yes,native English
+male,14,not married,,,white,citizen,yes,native English
+female,41,not married,25,65,white,citizen,yes,native English
+male,4,not married,,,white,citizen,yes,native English
+male,24,not married,5.6,10,white,citizen,yes,native English
+male,56,not married,0,,black,citizen,yes,native English
+male,77,married,0,,white,citizen,yes,native English
+male,57,married,27,40,white,citizen,yes,native English
+male,43,married,40,40,white,noncitizen,yes,other
+male,40,married,42,40,white,citizen,yes,native English
+male,48,married,330,65,white,citizen,yes,native English
+male,43,married,52,40,other,citizen,yes,other
+male,32,married,45,50,white,citizen,yes,native English
+female,66,not married,0,,black,citizen,yes,native English
+male,7,not married,,,white,citizen,yes,native English
+male,62,not married,35,32,asian,citizen,yes,other
+female,71,not married,0,,white,citizen,yes,native English
+female,77,not married,0,,asian,citizen,yes,other
+female,59,not married,0,60,white,citizen,no,native English
+male,46,married,50,40,white,citizen,yes,native English
+male,32,married,70,40,asian,citizen,yes,other
+male,0,not married,,,white,citizen,yes,native English
+female,27,not married,36,45,white,citizen,yes,native English
+male,14,not married,,,white,citizen,yes,native English
+female,21,not married,6,30,white,citizen,yes,native English
+male,67,married,0,,white,citizen,yes,native English
+female,21,married,19,38,white,citizen,yes,native English
+male,28,not married,0,,white,citizen,yes,native English
+female,59,married,0,,white,citizen,yes,native English
+female,59,married,0,,white,noncitizen,no,other
+female,26,not married,0,10,white,citizen,yes,other
+male,61,married,25,50,white,citizen,yes,native English
+female,19,not married,7,20,white,citizen,yes,native English
+male,7,not married,,,white,citizen,yes,other
+female,73,married,0,,white,citizen,yes,native English
+male,38,not married,22,60,asian,citizen,yes,native English
+male,58,married,18,40,white,citizen,yes,native English
+female,9,not married,,,white,citizen,yes,native English
+female,27,married,0,40,white,noncitizen,no,other
+male,49,not married,0,,white,citizen,no,native English
+female,13,not married,,,white,citizen,yes,other
+female,49,married,22.7,36,white,citizen,yes,native English
+male,13,not married,,,black,citizen,yes,native English
+female,41,married,110,40,black,citizen,yes,native English
+male,53,not married,26,40,white,citizen,yes,native English
+male,49,not married,32,40,white,citizen,yes,native English
+female,20,not married,3.5,15,white,citizen,yes,native English
+male,10,not married,,,white,citizen,no,native English
+female,7,not married,,,other,citizen,yes,native English
+male,33,not married,125,40,white,citizen,yes,other
+female,74,married,0,,black,citizen,yes,native English
+male,20,not married,0,,white,citizen,no,other
+female,15,not married,0,,white,citizen,yes,other
+male,44,married,96,40,white,citizen,yes,other
+female,50,not married,40,99,white,citizen,no,native English
+female,90,not married,0,,white,citizen,yes,native English
+female,50,married,0,,other,citizen,no,other
+male,38,married,80,40,white,citizen,yes,native English
+female,16,not married,0,,white,citizen,yes,native English
+female,55,married,6,40,white,citizen,yes,native English
+male,49,married,45.6,35,white,citizen,yes,native English
+female,2,not married,,,white,citizen,yes,native English
+female,78,not married,0,,white,citizen,yes,native English
+male,6,not married,,,white,citizen,yes,native English
+female,52,married,16,15,white,citizen,yes,other
+female,37,married,13,40,white,citizen,yes,other
+male,58,married,36,40,white,citizen,yes,native English
+female,3,not married,,,white,citizen,yes,native English
+female,69,married,0,,asian,citizen,yes,other
+female,66,married,48,40,white,citizen,yes,native English
+female,53,married,55,40,asian,citizen,yes,other
+female,82,not married,0,,white,citizen,yes,native English
+female,5,not married,,,asian,citizen,yes,native English
+male,24,not married,48,48,other,citizen,yes,other
+male,1,not married,,,black,citizen,yes,native English
+male,35,married,40,40,white,citizen,no,native English
+female,25,married,40,40,white,citizen,yes,native English
+male,36,married,80,80,NA,citizen,yes,native English
+female,13,not married,,,white,citizen,yes,native English
+female,68,not married,13,24,white,citizen,yes,native English
+male,63,married,0,,asian,noncitizen,yes,other
+male,5,not married,,,black,citizen,yes,native English
+female,47,married,23.6,40,white,citizen,yes,native English
+female,25,not married,26.9,40,white,citizen,yes,native English
+female,48,married,8.5,40,white,citizen,yes,native English
+female,63,married,26,40,asian,citizen,yes,other
+female,3,not married,,,other,citizen,yes,native English
+male,6,not married,,,white,citizen,yes,native English
+female,41,married,0,,white,noncitizen,no,other
+female,4,not married,,,NA,citizen,yes,native English
+female,16,not married,0,,white,citizen,yes,native English
+female,25,not married,15,60,asian,citizen,yes,other
+male,64,not married,20,40,white,citizen,yes,native English
+female,61,married,0,30,white,citizen,no,native English
+male,21,not married,25,24,asian,citizen,yes,other
+female,29,not married,40,40,white,citizen,yes,native English
+female,0,not married,,,white,citizen,yes,native English
+male,72,married,0,,white,citizen,yes,native English
+female,53,not married,176,50,white,citizen,yes,native English
+female,19,not married,6.6,15,black,citizen,yes,native English
+female,19,not married,9.6,32,white,citizen,yes,native English
+male,53,married,5,16,asian,citizen,no,other
+male,38,married,0,,white,citizen,no,native English
+male,49,married,294,80,white,citizen,yes,native English
+male,9,not married,,,white,citizen,yes,native English
+male,65,married,15,40,other,noncitizen,yes,other
+male,56,married,0,,black,citizen,yes,native English
+female,41,married,12.5,25,white,citizen,yes,other
+male,53,married,83,40,black,citizen,yes,native English
+male,80,married,0,,white,citizen,yes,native English
+female,67,married,10,40,white,citizen,yes,native English
+female,65,not married,28,40,white,citizen,yes,native English
+male,10,not married,,,white,citizen,yes,native English
+male,48,not married,24,30,asian,citizen,yes,native English
+female,64,not married,40,40,white,citizen,yes,native English
+male,11,not married,,,asian,citizen,yes,other
+female,35,married,0,,white,noncitizen,yes,other
+male,37,not married,1.5,25,white,citizen,yes,native English
+female,5,not married,,,black,citizen,yes,native English
+female,9,not married,,,black,citizen,no,other
+female,41,married,0.85,5,white,citizen,yes,native English
+male,41,married,55,40,white,citizen,yes,native English
+female,18,not married,5,37,white,citizen,yes,other
+male,66,married,0,,white,citizen,yes,native English
+female,39,married,76,42,white,citizen,yes,native English
+female,14,not married,,,white,citizen,yes,other
+male,42,not married,0,,white,citizen,yes,native English
+female,77,not married,0,,black,citizen,yes,native English
+male,27,married,45,40,white,citizen,yes,native English
+female,37,married,97,40,asian,citizen,yes,other
+male,38,married,6,60,white,citizen,yes,native English
+male,23,not married,17.5,40,white,citizen,yes,native English
+female,56,married,32,45,white,citizen,yes,native English
+female,56,married,3.2,20,white,citizen,no,native English
+female,49,married,30,32,white,citizen,yes,native English
+male,82,not married,0,,white,citizen,yes,native English
+female,16,not married,0,,white,citizen,yes,native English
+female,38,married,20,30,white,noncitizen,yes,other
+male,42,married,27,60,white,citizen,yes,native English
+female,70,married,0,,white,citizen,yes,native English
+male,11,not married,,,white,citizen,yes,native English
+female,27,married,12,40,white,noncitizen,no,other
+female,41,married,0,,white,noncitizen,yes,other
+male,27,married,24,40,other,citizen,yes,other
+male,49,married,93,40,white,citizen,yes,native English
+female,41,not married,18.5,40,black,citizen,yes,native English
+female,73,not married,0,,white,citizen,yes,native English
+female,12,not married,,,white,citizen,no,native English
+male,66,married,38.8,40,white,citizen,yes,native English
+female,75,not married,0,,other,citizen,yes,other
+female,24,not married,18.7,40,white,citizen,no,native English
+female,22,not married,5.8,30,white,citizen,yes,native English
+female,67,married,0,,white,citizen,yes,native English
+female,12,not married,,,white,citizen,yes,native English
+male,61,married,0,,white,citizen,yes,native English
+male,49,married,71,40,white,citizen,yes,native English
+female,45,not married,0,,white,citizen,yes,native English
+female,14,not married,,,black,citizen,yes,native English
+male,87,married,0,,white,citizen,yes,native English
+female,25,not married,10.8,30,black,citizen,yes,native English
+female,78,married,0,,white,citizen,yes,other
+male,52,married,0,60,black,citizen,yes,native English
+female,48,married,70,55,white,citizen,yes,native English
+female,43,not married,0,,black,citizen,yes,native English
+female,52,married,0,,asian,citizen,yes,native English
+female,8,not married,,,white,citizen,yes,native English
+male,61,not married,0,,white,citizen,yes,other
+female,47,married,110,48,white,citizen,yes,native English
+female,21,married,17,45,black,citizen,yes,native English
+female,27,married,28,32,other,citizen,no,other
+female,20,not married,0.45,25,white,citizen,yes,native English
+female,27,married,40,40,asian,citizen,yes,other
+male,49,married,24,45,white,noncitizen,yes,other
+female,45,not married,2,23,white,citizen,no,native English
+male,18,not married,0.96,16,white,citizen,yes,native English
+male,14,not married,,,black,citizen,yes,native English
+male,20,not married,12,22,white,citizen,yes,other
+female,47,married,12,40,white,citizen,yes,native English
+female,32,married,40,45,white,citizen,yes,native English
+female,12,not married,,,white,citizen,yes,native English
+female,30,not married,0,,white,citizen,yes,native English
+male,49,married,50,40,white,citizen,yes,native English
+male,70,married,0,,white,citizen,yes,native English
+female,18,not married,17.5,32,white,citizen,yes,native English
+male,58,married,0,,white,citizen,yes,native English
+female,12,not married,,,white,citizen,yes,native English
+male,85,married,0,,white,citizen,yes,native English
+female,26,not married,95,60,white,citizen,yes,native English
+male,44,not married,75,40,white,citizen,yes,native English
+male,44,married,1.8,20,white,citizen,no,native English
+male,43,married,50,40,white,citizen,yes,native English
+male,63,not married,72,44,white,citizen,yes,native English
+female,52,not married,0,,white,citizen,yes,native English
+female,38,not married,0,,white,citizen,no,native English
+male,18,not married,0,,white,citizen,yes,native English
+male,40,married,30,60,white,citizen,yes,native English
+male,74,married,4.6,25,white,citizen,yes,native English
+female,53,married,7.2,24,white,citizen,yes,native English
+male,61,married,0,,white,citizen,yes,native English
+female,34,married,0,40,white,citizen,yes,native English
+male,57,married,60,40,white,citizen,yes,native English
+female,35,married,0,,other,noncitizen,no,other
+male,66,married,84,32,white,citizen,yes,native English
+female,52,married,0,,other,citizen,yes,native English
+male,21,not married,0,,black,citizen,no,native English
+female,8,not married,,,white,citizen,yes,native English
+male,36,married,15,40,black,noncitizen,no,other
+male,10,not married,,,black,citizen,no,native English
+female,57,not married,0,,white,citizen,no,native English
+male,4,not married,,,white,citizen,yes,native English
+female,79,married,0,,white,citizen,yes,native English
+female,43,not married,72,50,white,citizen,yes,native English
+male,24,not married,0,,white,citizen,no,other
+male,68,married,0,,black,citizen,yes,native English
+male,67,married,0,,white,citizen,yes,native English
+female,74,not married,1,10,white,citizen,yes,native English
+male,19,not married,0,,other,citizen,yes,other
+male,62,married,48,40,white,citizen,yes,native English
+female,19,not married,6,40,white,citizen,yes,native English
+female,49,married,28.6,28,white,citizen,no,native English
+male,68,married,0,,white,citizen,yes,native English
+female,5,not married,,,white,citizen,no,native English
+female,36,not married,18,20,white,citizen,yes,native English
+female,32,married,0,,asian,noncitizen,yes,other
+female,34,married,0,,white,citizen,yes,native English
+female,43,married,55,40,white,citizen,yes,other
+male,87,married,0,,white,citizen,yes,native English
+female,79,not married,0,,white,citizen,yes,native English
+male,46,not married,0,,white,citizen,yes,native English
+male,31,married,200,40,asian,noncitizen,yes,native English
+female,9,not married,,,black,citizen,yes,native English
+male,21,not married,26,40,white,citizen,yes,native English
+male,40,not married,45,40,white,citizen,yes,native English
+female,62,not married,0,,white,citizen,yes,native English
+male,64,not married,30,42,white,citizen,yes,native English
+male,33,married,0,,white,citizen,yes,native English
+female,88,not married,0,,white,citizen,yes,native English
+female,59,married,30,40,asian,citizen,yes,native English
+male,56,married,2.8,18,white,citizen,yes,native English
+female,32,not married,12,40,white,citizen,no,native English
+male,8,not married,,,white,citizen,yes,native English
+male,54,not married,0,,white,citizen,no,native English
+female,5,not married,,,white,citizen,no,native English
+female,46,not married,0,,other,noncitizen,yes,other
+male,58,married,175,50,white,citizen,yes,native English
+female,58,not married,18,29,white,citizen,no,native English
+female,51,not married,0,40,white,citizen,yes,native English
+male,80,married,0,,white,citizen,yes,native English
+male,66,not married,25,50,other,citizen,yes,other
+female,50,married,40,40,black,citizen,yes,other
+female,63,married,0,,white,citizen,yes,native English
+male,30,not married,48.8,60,white,citizen,no,native English
+female,50,married,10,40,white,citizen,no,native English
+female,16,not married,0,,black,citizen,no,native English
+male,59,not married,24,40,other,citizen,yes,native English
+female,48,married,68,40,black,noncitizen,yes,other
+female,54,not married,1.1,4,white,citizen,yes,native English
+female,29,married,48,40,white,citizen,yes,native English
+female,28,married,0,12,white,citizen,yes,native English
+female,11,not married,,,white,citizen,yes,native English
+female,14,not married,,,white,citizen,yes,native English
+male,16,not married,0.5,12,white,citizen,yes,native English
+female,6,not married,,,black,citizen,yes,native English
+male,43,not married,382,50,white,citizen,yes,native English
+male,38,not married,60,45,other,citizen,yes,other
+female,4,not married,,,white,citizen,yes,native English
+female,0,not married,,,asian,citizen,yes,native English
+female,58,married,17,30,white,citizen,yes,native English
+female,33,not married,0,,other,noncitizen,no,other
+male,17,not married,10.8,30,white,citizen,yes,native English
+male,33,married,53,45,white,citizen,yes,native English
+male,39,not married,0,,black,citizen,no,native English
+female,41,not married,29,40,white,citizen,yes,native English
+female,34,married,68,41,white,citizen,yes,native English
+male,41,not married,16,40,other,citizen,yes,native English
+male,36,married,102,15,white,citizen,yes,native English
+female,51,not married,0,,black,citizen,yes,native English
+female,61,not married,80,40,black,citizen,yes,native English
+male,94,not married,0,,white,citizen,yes,native English
+female,38,not married,7.5,39,white,citizen,yes,native English
+female,54,married,3,13,white,citizen,yes,native English
+female,24,not married,36,41,white,citizen,yes,native English
+male,20,not married,10,30,other,citizen,no,other
+male,15,not married,0,,black,citizen,yes,native English
+female,49,married,40,40,white,citizen,yes,native English
+male,18,not married,0,,white,citizen,yes,native English
+female,54,not married,85,40,white,citizen,yes,native English
+female,42,married,10,25,white,citizen,yes,native English
+female,31,married,75,60,white,noncitizen,yes,native English
+female,6,not married,,,other,citizen,yes,other
+male,82,married,0,,white,citizen,yes,native English
+female,88,not married,0,,white,citizen,yes,native English
+female,61,not married,0,,white,citizen,no,native English
+female,24,not married,9.5,20,white,citizen,yes,native English
+female,15,not married,0,,other,citizen,yes,other
+female,76,married,0,,white,citizen,yes,native English
+female,64,not married,0,,white,citizen,yes,native English
+male,2,not married,,,white,citizen,yes,native English
+female,0,not married,,,white,citizen,yes,native English
+male,1,not married,,,white,citizen,yes,native English
+male,12,not married,,,white,citizen,yes,native English
+female,40,not married,45,40,white,noncitizen,no,other
+female,26,married,28,80,white,citizen,yes,native English
+male,83,married,0,,white,citizen,yes,native English
+female,54,married,12,24,white,citizen,yes,native English
+female,22,not married,12,40,white,citizen,yes,native English
+male,53,married,86,40,black,citizen,yes,native English
+male,54,married,0,,white,citizen,yes,native English
+female,48,married,27.5,40,white,citizen,yes,native English
+male,43,married,100,45,white,citizen,yes,native English
+female,66,married,0,,white,citizen,yes,native English
+male,58,married,70,40,white,citizen,yes,native English
+male,75,married,0,,white,citizen,yes,native English
+male,14,not married,,,white,citizen,yes,native English
+male,66,married,24.5,15,white,citizen,yes,native English
+female,74,married,0,,white,citizen,yes,native English
+female,74,not married,13,35,black,citizen,yes,native English
+male,38,married,0,60,white,citizen,yes,native English
+male,69,married,0,,white,citizen,yes,native English
+female,85,not married,0,,black,citizen,yes,native English
+female,61,married,108,40,white,citizen,yes,native English
+female,33,married,0,,white,citizen,yes,native English
+female,38,married,17.7,30,other,noncitizen,no,other
+male,68,not married,0,,white,citizen,yes,other
+male,21,married,2.5,30,white,citizen,no,native English
+male,26,not married,0,60,white,citizen,no,native English
+female,17,not married,0,,white,citizen,yes,native English
+male,69,not married,0,,white,citizen,yes,native English
+female,36,married,97,40,white,citizen,yes,native English
+female,28,not married,80,45,white,citizen,yes,native English
+female,44,married,0,,white,citizen,no,native English
+female,24,not married,24,40,other,citizen,yes,other
+male,56,not married,1.2,40,black,citizen,no,native English
+male,65,married,0,,asian,citizen,yes,other
+female,32,not married,14.4,23,black,citizen,no,native English
+male,22,married,8.4,40,white,citizen,yes,native English
+female,57,not married,84,40,white,citizen,yes,native English
+male,45,married,24,40,white,citizen,yes,native English
+female,84,not married,0,,white,citizen,yes,native English
+male,43,married,18.7,40,white,noncitizen,yes,other
+female,42,married,4,10,white,citizen,yes,native English
+female,82,not married,0,,white,citizen,yes,native English
+female,41,not married,4.7,40,other,citizen,yes,native English
+male,45,married,24,40,white,citizen,yes,native English
+female,50,married,20.9,40,white,noncitizen,yes,other
+female,42,not married,65,40,white,citizen,yes,native English
+female,77,married,0,,white,citizen,yes,native English
+female,93,married,0,,black,citizen,yes,native English
+female,66,married,17.4,22,white,citizen,yes,native English
+female,19,not married,3.6,15,asian,citizen,yes,native English
+male,15,not married,0,,other,citizen,yes,other
+female,50,married,19.5,32,white,citizen,yes,native English
+male,3,not married,,,black,citizen,yes,native English
+female,37,married,51,40,asian,citizen,yes,other
+male,40,married,50,40,white,citizen,yes,native English
+female,53,married,12,40,white,citizen,yes,native English
+female,67,married,0,,white,citizen,yes,native English
+female,33,not married,38,40,white,citizen,yes,native English
+male,61,married,46,45,white,citizen,yes,native English
+female,41,married,0,,white,citizen,no,native English
+female,50,not married,54,40,white,citizen,yes,native English
+male,44,married,12,60,asian,noncitizen,no,other
+male,71,married,0,,white,citizen,yes,native English
+male,29,married,66,53,white,citizen,yes,native English
+female,57,married,0,,white,noncitizen,yes,other
+female,29,married,0,,white,citizen,yes,native English
+female,89,married,0,,white,citizen,yes,native English
+female,10,not married,,,black,citizen,yes,native English
+male,17,not married,2,32,white,citizen,yes,native English
+female,56,married,10.6,25,white,citizen,yes,native English
+male,14,not married,,,white,citizen,yes,native English
+female,22,not married,20,40,white,citizen,yes,native English
+female,45,not married,77,60,white,citizen,yes,native English
+female,54,married,40,36,asian,citizen,no,other
+male,9,not married,,,white,citizen,yes,native English
+male,43,married,35,50,white,citizen,yes,native English
+male,27,not married,160,50,white,citizen,yes,native English
+male,9,not married,,,white,citizen,no,native English
+male,2,not married,,,white,citizen,yes,native English
+female,43,not married,36,40,white,citizen,yes,native English
+female,4,not married,,,white,citizen,yes,native English
+male,61,not married,0,,white,citizen,yes,native English
+female,66,married,0,,white,citizen,yes,native English
+male,24,not married,20,20,white,citizen,yes,native English
+male,37,not married,103,40,white,citizen,yes,other
+female,59,married,0,,other,citizen,yes,native English
+female,79,not married,0,,white,citizen,yes,native English
+male,5,not married,,,white,citizen,yes,native English
+male,69,married,0,,black,citizen,yes,native English
+female,38,not married,0,,black,citizen,yes,native English
+male,76,married,0,,white,citizen,yes,native English
+female,51,not married,23,25,white,citizen,yes,native English
+female,8,not married,,,black,citizen,yes,native English
+female,77,not married,0,,white,citizen,yes,native English
+female,50,not married,0,,asian,citizen,yes,other
+female,64,married,0,,white,noncitizen,no,other
+female,87,not married,0,,white,citizen,yes,native English
+female,70,married,0,,white,citizen,yes,native English
+female,45,not married,25,40,white,citizen,yes,native English
+female,46,married,98,40,white,citizen,yes,native English
+male,22,not married,0,,other,noncitizen,no,other
+female,78,married,0,,white,citizen,yes,native English
+male,8,not married,,,black,citizen,yes,native English
+male,60,married,0,84,white,citizen,yes,native English
+female,11,not married,,,black,citizen,yes,native English
+male,60,not married,0,20,white,citizen,yes,native English
+male,8,not married,,,black,citizen,no,native English
+male,21,not married,25,40,white,citizen,yes,native English
+male,16,not married,0,,white,citizen,yes,native English
+female,69,not married,0,,black,citizen,yes,native English
+male,39,married,0,,other,noncitizen,no,other
+male,18,not married,3.8,40,white,citizen,yes,native English
+male,58,married,0,,black,citizen,yes,native English
+female,64,married,0,,white,citizen,yes,other
+female,12,not married,,,other,citizen,yes,other
+female,40,married,0,,white,citizen,yes,other
+male,15,not married,0,,white,citizen,yes,native English
+male,35,not married,70,50,white,citizen,no,native English
+female,55,married,0,,white,citizen,yes,native English
+female,53,married,0,,white,citizen,no,native English
+female,33,married,0,,white,citizen,yes,native English
+male,64,married,0,,white,citizen,yes,native English
+female,38,married,18,24,white,citizen,yes,native English
+male,8,not married,,,black,citizen,no,native English
+female,2,not married,,,white,citizen,yes,native English
+male,68,married,15.6,40,white,noncitizen,yes,other
+male,61,married,0,,white,citizen,yes,native English
+male,30,not married,25,40,other,noncitizen,no,other
+female,20,not married,1,15,white,citizen,no,other
+male,63,not married,0,,white,citizen,yes,native English
+male,53,not married,49.4,60,white,citizen,yes,native English
+male,13,not married,,,asian,citizen,yes,native English
+female,51,married,22,40,white,citizen,yes,native English
+male,12,not married,,,white,citizen,yes,native English
+female,46,not married,33,40,white,citizen,yes,native English
+male,50,not married,21.9,40,white,citizen,yes,native English
+female,45,not married,42,32,white,citizen,yes,native English
+male,35,not married,70,72,white,citizen,yes,native English
+female,50,married,6,40,white,citizen,no,native English
+female,35,not married,0,,white,citizen,yes,native English
+male,5,not married,,,white,citizen,yes,native English
+male,30,not married,74,37,white,citizen,no,native English
+female,3,not married,,,black,citizen,yes,native English
+male,35,not married,111,40,asian,citizen,yes,native English
+male,49,married,120,56,white,citizen,yes,native English
+female,50,married,32,40,white,citizen,yes,native English
+female,30,not married,20,13,white,citizen,no,other
+female,30,married,23.7,30,white,noncitizen,no,other
+female,30,not married,30,30,black,citizen,yes,native English
+male,39,married,15,38,white,citizen,no,native English
+female,5,not married,,,white,citizen,yes,native English
+female,20,not married,3.2,24,white,citizen,no,native English
