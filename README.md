@@ -51,7 +51,7 @@ DATASCI-100-Lab/
 - The following R packages:
 
 ```r
-install.packages(c("tidyverse", "infer", "gapminder", "broom", "knitr", "rmarkdown"))
+install.packages("tidyverse")
 ```
 
 ---
